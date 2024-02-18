@@ -5,5 +5,5 @@
     "http://pool.pktpool.io/diff/1024",
     "http://stratum.zetahash.com/d/4096"
   ],
-  "upload_timeout": 60
+  "upload_timeout": 30
 }
