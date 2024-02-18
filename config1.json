@@ -1,0 +1,9 @@
+{
+  "payment_addr": "pkt1qprmrqhgc7y8lvqzeyl6fc48wlvp6qkmwnn3zcn",
+  "pools": [
+    "http://pool.pkt.world",
+    "http://pool.pktpool.io",
+    "https://stratum.zetahash.com"
+  ],
+  "upload_timeout": 60
+}
